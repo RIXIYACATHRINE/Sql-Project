@@ -1,0 +1,12 @@
+MovieID,Title,Genre,Duration,Language,ReleaseDate
+1,Inception,Sci-Fi,148,English,2010-07-16
+2,"KGF Chapter 2",Action,168,Kannada,2022-04-14
+3,"3 Idiots",Comedy-Drama,170,Hindi,2009-12-25
+4,"Bahubali: The Beginning","Epic Action",159,Telugu,2015-07-10
+5,"Avengers: Endgame",Superhero,181,English,2019-04-26
+6,Vikram,"Action Thriller",175,Tamil,2022-06-03
+7,Jailer,Action,169,Tamil,2023-08-10
+8,"Spirited Away",Animation,125,Japanese,2001-07-20
+9,Interstellar,Sci-Fi,169,English,2014-11-07
+10,Dangal,Biography,161,Hindi,2016-12-23
+11,"The Dark Knight",Superhero,152,English,2008-07-18
